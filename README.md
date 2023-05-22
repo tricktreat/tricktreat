@@ -1,4 +1,10 @@
-### Hi there 👋
+👋 Hi there! My name is Yongliang Shen (沈永亮),
+
+- 🔭 I’m currently a fourth-year Ph.D. student advised by [Yueting Zhuang](https://person.zju.edu.cn/yzhuang) at Zhejiang University since 2019.
+- 🌱 My research fields include large language models and information extraction.
+- 📫 How to reach me: syl (at) zju.edu.cn, shenyl2024 (Wechat)
+
+[Google Scholar](https://scholar.google.com/citations?user=UT3NzFAAAAAJ)
 
 <!--
 **tricktreat/tricktreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
