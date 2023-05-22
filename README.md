@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: syl (at) zju.edu.cn, shenyl2024 (Wechat)
 
 [[Google Scholar]](https://scholar.google.com/citations?user=UT3NzFAAAAAJ)
-[[Semantic Scholar]]([https://scholar.google.com/citations?user=UT3NzFAAAAAJ](https://www.semanticscholar.org/author/Yongliang-Shen/1471660296))
-[[Personal Page]]([https://scholar.google.com/citations?user=UT3NzFAAAAAJ](https://tricktreat.github.io/))
+[[Semantic Scholar]](https://www.semanticscholar.org/author/Yongliang-Shen/1471660296)
+[[Personal Page]](https://tricktreat.github.io/)
 
 ![](https://komarev.com/ghpvc/?username=tricktreat&label=PROFILE+VIEWS)
 ![](https://img.shields.io/badge/dynamic/json?label=CITATIONS&query=citationCount&url=https://api.semanticscholar.org/graph/v1/author/1471660296?fields=citationCount)
