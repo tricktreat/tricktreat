@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 [[Semantic Scholar]](https://www.semanticscholar.org/author/Yongliang-Shen/1471660296)
 [[Personal Page]](https://tricktreat.github.io/)
 
-[![](https://komarev.com/ghpvc/?username=tricktreat&label=VIEWS)](https://github.com/tricktreat)
+[![](https://komarev.com/ghpvc/?username=tricktreat&label=VIEWS&style=flat-square)](https://github.com/tricktreat)
 [![](https://img.shields.io/badge/dynamic/json?label=CITATIONS&style=flat-square&query=citationCount&url=https://api.semanticscholar.org/graph/v1/author/1471660296?fields=citationCount)](https://www.semanticscholar.org/author/Yongliang-Shen/1471660296)
 [![](https://img.shields.io/badge/dynamic/json?label=PUBLICATIONS&style=flat-square&query=paperCount&url=https://api.semanticscholar.org/graph/v1/author/1471660296?fields=paperCount)](https://www.semanticscholar.org/author/Yongliang-Shen/1471660296)
