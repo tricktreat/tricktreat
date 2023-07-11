@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tricktreat&repo=trimf&theme=default)](https://github.com/tricktreat/trimf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tricktreat&repo=PromptNER&theme=default)](https://github.com/tricktreat/PromptNER)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zqtan1024&repo=sequence-to-set&theme=default)](https://github.com/zqtan1024/sequence-to-set)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tricktreat&repo=XiPotatonium&theme=default)](https://github.com/XiPotatonium/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XiPotatonium&repo=pnr&theme=default)](https://github.com/XiPotatonium/pnr)
 
