@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-NLP&repo=KB-NER&theme=vue)](https://github.com/Alibaba-NLP/KB-NER)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tricktreat&repo=locate-and-label&theme=vue)](https://github.com/tricktreat/locate-and-label)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tricktreat&repo=piqn&theme=vue)](https://github.com/tricktreat/piqn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tricktreat&repo=DiffusionNER&theme=vue)](https://github.com/tricktreat/DiffusionNER)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zqtan1024&repo=sequence-to-set&theme=vue)](https://github.com/zqtan1024/sequence-to-set)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tricktreat&repo=DiffusionNER&theme=vue)](https://github.com/tricktreat/DiffusionNER)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tricktreat&repo=trimf&theme=vue)](https://github.com/tricktreat/trimf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tricktreat&repo=PromptNER&theme=vue)](https://github.com/tricktreat/PromptNER)
