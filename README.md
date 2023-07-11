@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=microsoft&repo=JARVIS&theme=default)](https://github.com/microsoft/JARVIS)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zwq2018&repo=Data-Copilot&theme=default)](https://github.com/zwq2018/Data-Copilot)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Alibaba-NLP&repo=KB-NER&theme=default)](https://github.com/Alibaba-NLP/KB-NER)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tricktreat&repo=locate-and-label&theme=default)](https://github.com/tricktreat/locate-and-label)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tricktreat&repo=locate-and-label&theme=default)](https://github.com/tricktreat/locate-and-label)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tricktreat&repo=DiffusionNER&theme=default)](https://github.com/tricktreat/DiffusionNER)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tricktreat&repo=piqn&theme=default)](https://github.com/tricktreat/piqn)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tricktreat&repo=trimf&theme=default)](https://github.com/tricktreat/trimf)
