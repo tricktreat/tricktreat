@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 👋 Hi there! My name is Yongliang Shen (沈永亮),
 
 - 🔭 I am an assistant professor (ZJU-100 Young Professor) at Zhejiang University. I received my Ph.D. degree from [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, supervised by Prof. [Yueting Zhuang](https://person.zju.edu.cn/yzhuang).
-- 🌱 My research interests include large language models, AI agents and knowledge graph.
+- 🌱 My research interests include LLM Reasoning, AI Agent and Multimodal Learning.
 - 📫 How to reach me: syl (at) zju.edu.cn
 
 [[Google Scholar]](https://scholar.google.com/citations?user=UT3NzFAAAAAJ)
